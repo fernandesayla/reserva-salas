@@ -1,0 +1,28 @@
+{
+  "name": "reserva-sala",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "express": "^4.16.2",
+    "express-validator": "^4.3.0",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.12.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandesayla/reserva-salas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fernandesayla/reserva-salas/issues"
+  },
+  "homepage": "https://github.com/fernandesayla/reserva-salas#readme"
+}
